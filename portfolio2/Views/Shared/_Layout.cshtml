@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="~/phantom/assets/css/main.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+</head>
+<body>
+
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <div class="inner">
+
+                <!-- Nav -->
+                <nav>
+                    <ul>
+                        <li><a href="#menu">Menu</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+        </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <h2>Menu</h2>
+            <ul>
+                <li><a href="~/Home/Index">Home</a></li>
+                <li><a href="~/Home/Resume">Resume</a></li>
+                <li><a href="~/Home/Accomplishments">Accomplishments</a></li>
+                <li><a href="~/Home/Contact">Contact</a></li>
+                <li><a href="~/Home/PongGame">Pong</a></li>
+                <li><a href="~/Home/Chart">Chart/Graphing</a></li>
+                <li><a href="~/Home/Radio">Radio</a></li>
+            </ul>
+        </nav>
+    @RenderBody()
+
+        </div>
+    <!-- Scripts -->
+    <script src="~/phantom/assets/js/jquery.min.js"></script>
+    <script src="~/phantom/assets/js/skel.min.js"></script>
+    <script src="~/phantom/assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="~/phantom/assets/js/main.js"></script>
+
+</body>
+</html>
