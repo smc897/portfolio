@@ -201,12 +201,81 @@
     <Content Include="movies\radio.mp4">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="phantom\assets\css\font-awesome.min.css" />
+    <Content Include="phantom\assets\css\ie8.css" />
+    <Content Include="phantom\assets\css\ie9.css" />
+    <Content Include="phantom\assets\css\main.css" />
+    <Content Include="phantom\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="phantom\assets\js\ie\html5shiv.js" />
+    <Content Include="phantom\assets\js\ie\respond.min.js" />
+    <Content Include="phantom\assets\js\jquery.min.js" />
+    <Content Include="phantom\assets\js\main.js" />
+    <Content Include="phantom\assets\js\skel.min.js" />
+    <Content Include="phantom\assets\js\util.js" />
+    <Content Include="phantom\font-awesome.min.css" />
+    <Content Include="phantom\fontawesome-webfont.svg" />
+    <Content Include="phantom\images\logo.svg" />
+    <Content Include="phantom\images\pic01.jpg" />
+    <Content Include="phantom\images\pic02.jpg" />
+    <Content Include="phantom\images\pic03.jpg" />
+    <Content Include="phantom\images\pic04.jpg" />
+    <Content Include="phantom\images\pic05.jpg" />
+    <Content Include="phantom\images\pic06.jpg" />
+    <Content Include="phantom\images\pic07.jpg" />
+    <Content Include="phantom\images\pic08.jpg" />
+    <Content Include="phantom\images\pic09.jpg" />
+    <Content Include="phantom\images\pic10.jpg" />
+    <Content Include="phantom\images\pic11.jpg" />
+    <Content Include="phantom\images\pic12.jpg" />
+    <Content Include="phantom\images\pic13.jpg" />
+    <Content Include="phantom\images\pic14.jpg" />
+    <Content Include="phantom\images\pic15.jpg" />
+    <Content Include="phantom\jquery.min.js" />
+    <Content Include="phantom\main.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="phantom\main.js" />
+    <Content Include="phantom\skel.min.js" />
+    <Content Include="phantom\util.js" />
     <Content Include="resume3_18_16analog.htm" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="resume4_4_16.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="phantom\fontawesome-webfont.eot" />
+    <Content Include="phantom\fontawesome-webfont.ttf" />
+    <Content Include="phantom\fontawesome-webfont.woff" />
+    <Content Include="phantom\fontawesome-webfont.woff2" />
+    <Content Include="phantom\FontAwesome.otf" />
+    <Content Include="phantom\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="phantom\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="phantom\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="phantom\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="phantom\assets\fonts\FontAwesome.otf" />
+    <Content Include="phantom\assets\sass\base\_page.scss" />
+    <Content Include="phantom\assets\sass\base\_typography.scss" />
+    <Content Include="phantom\assets\sass\components\_box.scss" />
+    <Content Include="phantom\assets\sass\components\_button.scss" />
+    <Content Include="phantom\assets\sass\components\_form.scss" />
+    <Content Include="phantom\assets\sass\components\_icon.scss" />
+    <Content Include="phantom\assets\sass\components\_image.scss" />
+    <Content Include="phantom\assets\sass\components\_list.scss" />
+    <Content Include="phantom\assets\sass\components\_section.scss" />
+    <Content Include="phantom\assets\sass\components\_table.scss" />
+    <Content Include="phantom\assets\sass\components\_tiles.scss" />
+    <Content Include="phantom\assets\sass\ie8.scss" />
+    <Content Include="phantom\assets\sass\ie9.scss" />
+    <Content Include="phantom\assets\sass\layout\_footer.scss" />
+    <Content Include="phantom\assets\sass\layout\_header.scss" />
+    <Content Include="phantom\assets\sass\layout\_main.scss" />
+    <Content Include="phantom\assets\sass\layout\_menu.scss" />
+    <Content Include="phantom\assets\sass\layout\_wrapper.scss" />
+    <Content Include="phantom\assets\sass\libs\_functions.scss" />
+    <Content Include="phantom\assets\sass\libs\_mixins.scss" />
+    <Content Include="phantom\assets\sass\libs\_skel.scss" />
+    <Content Include="phantom\assets\sass\libs\_vars.scss" />
+    <Content Include="phantom\assets\sass\main.scss" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -220,7 +289,9 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Views\Home\PongGame.cshtml" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -267,8 +338,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="phantom\assets\" />
-    <Folder Include="phantom\images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
