@@ -57,3 +57,4 @@ C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2.Tests
 C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2.Tests\bin\Debug\images\Me.JPG
 C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2.Tests\bin\Debug\images\pong.jpg
 C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2.Tests\bin\Debug\movies\radio.mp4
+C:\Users\SCOTT\documents\visual studio 2015\Projects\portfolio2\portfolio2.Tests\bin\Debug\resume4_4_16.pdf
