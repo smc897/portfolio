@@ -67,3 +67,7 @@ C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\bin\M
 C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\obj\Debug\portfolio2.csprojResolveAssemblyReference.cache
 C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\obj\Debug\portfolio2.dll
 C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\obj\Debug\portfolio2.pdb
+C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\bin\images\chart.png
+C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\bin\images\Me.JPG
+C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\bin\images\pong.jpg
+C:\Users\SCOTT\Documents\Visual Studio 2015\Projects\portfolio2\portfolio2\bin\movies\radio.mp4
